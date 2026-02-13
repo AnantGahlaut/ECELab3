@@ -38,3 +38,4 @@ of sums.
 
 ### Open the test.v file – how are we able to check that the signals match using XOR?
 
+Because of XOR's truth table if the outputs wern't the same than XOR would return 1, if they were the same XOR would return 0. 
